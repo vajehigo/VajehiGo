@@ -9,18 +9,22 @@ Tento dokument upravuje pravidla ochrany osobních údajů a podmínky použív�
 
 Aplikace nesbírá, neukládá, nesdílí ani neodesílá žádné vaše osobní údaje na žádné externí servery ani třetím stranám.
 
-· Vývojář aplikace nemá přístup k žádným vašim osobním datům, identifikátorům zařízení ani vámi vytvořenému obsahu.
-· Aplikace nevyžaduje vytvoření uživatelského účtu na serverech provozovatele.
-· Aplikace neobsahuje žádné sledovací kódy (trackery), analytické nástroje třetích stran ani reklamy.
+Vývojář aplikace nemá přístup k žádným vašim osobním datům, identifikátorům zařízení ani vámi vytvořenému obsahu.
+
+Aplikace nevyžaduje vytvoření uživatelského účtu na serverech provozovatele.
+
+Aplikace neobsahuje žádné sledovací kódy (trackery), analytické nástroje třetích stran ani reklamy.
 
 
 2. Umělá inteligence, analýza obsahu a strojové učení
 
 Aplikace nepoužívá žádné systémy umělé inteligence (AI), algoritmy strojového učení ani automatizované nástroje pro analýzu obsahu.
 
-· Vaše texty, fotografie, soubory ani jiný vložený obsah nejsou zpracovávány žádnými modely AI.
-· Obsah není odesílán žádným poskytovatelům AI služeb (např. OpenAI, Google, Anthropic) ani se nepoužívá k trénování generativních modelů.
-· Aplikace neprovádí žádné skenování, sémantické vyhodnocování, rozpoznávání obličejů ani jinou automatickou analýzu vašeho obsahu či fotografií.
+Vaše texty, fotografie, soubory ani jiný vložený obsah nejsou zpracovávány žádnými modely AI.
+
+Obsah není odesílán žádným poskytovatelům AI služeb (např. OpenAI, Google, Anthropic) ani se nepoužívá k trénování generativních modelů.
+
+Aplikace neprovádí žádné skenování, sémantické vyhodnocování, rozpoznávání obličejů ani jinou automatickou analýzu vašeho obsahu či fotografií.
 
 
 3. Ukládání dat a iCloud
