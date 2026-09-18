@@ -38,8 +38,11 @@ Správa, synchronizace a zabezpečení těchto dat podléhá výhradně infrastr
 Aplikace nabízí jednorázové spotřební nákupy (Consumable In-App Purchases), které představují poplatek za aktivaci osobního slibu/výzvy.
 
 · Rozsah služby: Poplatek představuje jednorázové plnění za okamžité zpřístupnění softwarové funkce (aktivaci rozhraní slibu, virtuálního prostoru pro vkládání poznámek, fotografií či videí a finálního vyhodnocení). Okamžikem zpřístupnění této funkce je služba považována za kompletně poskytnutou.
+
 · Zpracování plateb: Veškeré transakce probíhají výhradně prostřednictvím systému společnosti Apple Inc.
+
 · Odstoupení od smlouvy: Zakoupením digitální služby uživatel výslovně souhlasí se započetím plnění (zpřístupněním funkce) ihned po dokončení platby. Uživatel tímto bere na vědomí, že dle § 1837 písm. l) občanského zákoníku ztrácí právo na odstoupení od smlouvy bez udání důvodu ve lhůtě 14 dnů.
+
 · Povaha platby: Nákup představuje poplatek za zpřístupnění softwarové funkce v aplikaci. Nejedná se o finanční zálohu, sázku ani kauci.
 
 
