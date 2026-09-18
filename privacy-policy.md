@@ -2,7 +2,9 @@
 
 Poslední aktualizace: 21. září 2026
 <br><br>
-Tento dokument upravuje pravidla ochrany osobních údajů a podmínky používání mobilní aplikace Vajehi Go (dále jen „aplikace“). Stažením, instalací nebo nákupem v aplikaci uživatel souhlasí s níže uvedenými podmínkami.
+Tento dokument upravuje pravidla ochrany osobních údajů a podmínky používání mobilní aplikace Vajehi Go (dále jen „aplikace“). 
+<br><br>
+Stažením, instalací nebo nákupem v aplikaci uživatel souhlasí s níže uvedenými podmínkami.
 <br><br>
 ### **1. Sběr a zpracování osobních údajů**
 
