@@ -4,6 +4,7 @@ Poslední aktualizace: 21. září 2026
 
 Tento dokument upravuje pravidla ochrany osobních údajů a podmínky používání mobilní aplikace Vajehi Go (dále jen „aplikace“). Stažením, instalací nebo nákupem v aplikaci uživatel souhlasí s níže uvedenými podmínkami.
 
+
 1. Sběr a zpracování osobních údajů
 
 Aplikace nesbírá, neukládá, nesdílí ani neodesílá žádné vaše osobní údaje na žádné externí servery ani třetím stranám.
@@ -12,6 +13,7 @@ Aplikace nesbírá, neukládá, nesdílí ani neodesílá žádné vaše osobní
 · Aplikace nevyžaduje vytvoření uživatelského účtu na serverech provozovatele.
 · Aplikace neobsahuje žádné sledovací kódy (trackery), analytické nástroje třetích stran ani reklamy.
 
+
 2. Umělá inteligence, analýza obsahu a strojové učení
 
 Aplikace nepoužívá žádné systémy umělé inteligence (AI), algoritmy strojového učení ani automatizované nástroje pro analýzu obsahu.
@@ -19,6 +21,7 @@ Aplikace nepoužívá žádné systémy umělé inteligence (AI), algoritmy stro
 · Vaše texty, fotografie, soubory ani jiný vložený obsah nejsou zpracovávány žádnými modely AI.
 · Obsah není odesílán žádným poskytovatelům AI služeb (např. OpenAI, Google, Anthropic) ani se nepoužívá k trénování generativních modelů.
 · Aplikace neprovádí žádné skenování, sémantické vyhodnocování, rozpoznávání obličejů ani jinou automatickou analýzu vašeho obsahu či fotografií.
+
 
 3. Ukládání dat a iCloud
 
@@ -29,6 +32,7 @@ Veškerá data, která v aplikaci vytvoříte, jsou uložena výhradně:
 
 Správa, synchronizace a zabezpečení těchto dat podléhá výhradně infrastruktuře a podmínkám ochrany soukromí společnosti Apple Inc. Vývojář aplikace nemá k vašim datům uloženým na vašem iCloudu žádný přístup.
 
+
 4. Nákupy v aplikaci a dodání digitálního obsahu
 
 Aplikace nabízí jednorázové spotřební nákupy (Consumable In-App Purchases), které představují poplatek za aktivaci osobního slibu/výzvy.
@@ -38,9 +42,11 @@ Aplikace nabízí jednorázové spotřební nákupy (Consumable In-App Purchases
 · Odstoupení od smlouvy: Zakoupením digitální služby uživatel výslovně souhlasí se započetím plnění (zpřístupněním funkce) ihned po dokončení platby. Uživatel tímto bere na vědomí, že dle § 1837 písm. l) občanského zákoníku ztrácí právo na odstoupení od smlouvy bez udání důvodu ve lhůtě 14 dnů.
 · Povaha platby: Nákup představuje poplatek za zpřístupnění softwarové funkce v aplikaci. Nejedná se o finanční zálohu, sázku ani kauci.
 
+
 5. Vratky a refundace plateb
 
 Veškeré žádosti o vrácení peněz (refundace) uplatňuje uživatel přímo u společnosti Apple prostřednictvím portálu reportproblem.apple.com dle platných podmínek obchodu App Store.
+
 
 6. Smazání a správa dat
 
@@ -50,17 +56,21 @@ Vzhledem k tomu, že aplikace nevyužívá žádné vlastní servery a veškerá
 · Data na iCloudu: Správu nebo trvalé odstranění dat zálohovaných na iCloudu můžete kdykoliv provést přímo v systému iOS / iPadOS:
 · Otevřete Nastavení -> klepněte na [Vaše jméno] -> iCloud -> Spravovat úložiště účtu -> vyberte [Název aplikace] a zvolte Smazat data z iCloudu.
 
+
 7. Technická podpora
 
 V případě technických dotazů či problémů s funkčností aplikace kontaktuje uživatel provozovatele aplikace na níže uvedené e-mailové adrese.
+
 
 8. Mimosoudní řešení sporů
 
 V případě vzniklého spotřebitelského sporu má uživatel právo na jeho mimosoudní řešení. Příslušným subjektem pro mimosoudní řešení spotřebitelských sporů je Česká obchodní inspekce (www.coi.cz).
 
+
 9. Změny těchto zásad
 
 Zásady a podmínky mohou být občas aktualizovány. Všechny změny budou zveřejněny na této stránce s uvedením nového data účinnosti.
+
 
 10. Provozovatel aplikace
 
