@@ -1,4 +1,4 @@
-Zásady ochrany osobních údajů a Podmínky použití (Vajehi Go)
+#Zásady ochrany osobních údajů a Podmínky použití (Vajehi Go)
 
 Poslední aktualizace: 21. září 2026
 
