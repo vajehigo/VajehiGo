@@ -32,6 +32,7 @@ Aplikace neprovádí žádné skenování, sémantické vyhodnocování, rozpozn
 Veškerá data, která v aplikaci vytvoříte, jsou uložena výhradně:
 
 · Lokálně ve vašem zařízení.
+
 · Ve vašem osobním úložišti Apple iCloud (pokud máte službu iCloud ve svém zařízení aktivovanou).
 
 Správa, synchronizace a zabezpečení těchto dat podléhá výhradně infrastruktuře a podmínkám ochrany soukromí společnosti Apple Inc. Vývojář aplikace nemá k vašim datům uloženým na vašem iCloudu žádný přístup.
