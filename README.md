@@ -68,7 +68,7 @@ V případě technických dotazů či problémů s funkčností aplikace kontakt
 <br><br>
 ### **8. Mimosoudní řešení sporů**
 
-V případě vzniklého spotřebitelského sporu má uživatel právo na jeho mimosoudní řešení. Příslušným subjektem pro mimosoudní řešení spotřebitelských sporů je Česká obchodní inspekce [www.coi.cz](www.coi.cz).
+V případě vzniklého spotřebitelského sporu má uživatel právo na jeho mimosoudní řešení. Příslušným subjektem pro mimosoudní řešení spotřebitelských sporů je Česká obchodní inspekce [www.coi.cz](https://coi.gov.cz/informace-o-adr/?utm_source=chatgpt.com).
 <br><br>
 ### **9. Změny těchto zásad**
 
