@@ -60,7 +60,9 @@ Veškeré žádosti o vrácení peněz (refundace) uplatňuje uživatel přímo 
 Vzhledem k tomu, že aplikace nevyužívá žádné vlastní servery a veškerá data jsou uložena výhradně na vašem zařízení a ve vašem osobním účtu iCloud:
 
 · Lokální data: Veškerá data uložená v zařízení smažete jednoduše odinstalováním (smazáním) aplikace z vašeho telefonu či tabletu.
+
 · Data na iCloudu: Správu nebo trvalé odstranění dat zálohovaných na iCloudu můžete kdykoliv provést přímo v systému iOS / iPadOS:
+
 · Otevřete Nastavení -> klepněte na [Vaše jméno] -> iCloud -> Spravovat úložiště účtu -> vyberte [Název aplikace] a zvolte Smazat data z iCloudu.
 
 
