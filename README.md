@@ -1,0 +1,1 @@
+# Z-sady-ochrany-osobn-ch-daj-a-Podm-nky-pou-it-Vajehi-Go-
