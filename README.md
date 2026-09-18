@@ -64,11 +64,11 @@ Správa, synchronizace a zabezpečení těchto dat podléhá výhradně infrastr
 <br><br>
 ### **7. Technická podpora**
 
-V případě technických dotazů či problémů s funkčností aplikace kontaktuje uživatel provozovatele aplikace na této e-mailové adrese: vajehigo@gmail.com
+V případě technických dotazů či problémů s funkčností aplikace kontaktuje uživatel provozovatele aplikace na této e-mailové adrese: [vajehigo@gmail.com](mailto:vajehigo@gmail.com)
 <br><br>
 ### **8. Mimosoudní řešení sporů**
 
-V případě vzniklého spotřebitelského sporu má uživatel právo na jeho mimosoudní řešení. Příslušným subjektem pro mimosoudní řešení spotřebitelských sporů je Česká obchodní inspekce www.coi.cz.
+V případě vzniklého spotřebitelského sporu má uživatel právo na jeho mimosoudní řešení. Příslušným subjektem pro mimosoudní řešení spotřebitelských sporů je Česká obchodní inspekce [www.coi.cz](www.coi.cz).
 <br><br>
 ### **9. Změny těchto zásad**
 
@@ -80,4 +80,4 @@ Vývojářem a provozovatelem aplikace Vajehi Go je:
 
 **Tomáš Matula**
 
-Kontakt: vajehigo@gmail.com
+Kontakt: [vajehigo@gmail.com](mailto:vajehigo@gmail.com)
