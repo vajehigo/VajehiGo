@@ -1,6 +1,6 @@
 # Zásady ochrany osobních údajů a Podmínky použití (Vajehi Go)
 
-Poslední aktualizace: 21. září 2026
+Poslední aktualizace: 18. září 2026
 <br><br>
 Tento dokument upravuje pravidla ochrany osobních údajů a podmínky používání mobilní aplikace Vajehi Go (dále jen „aplikace“). 
 <br><br>
@@ -64,7 +64,7 @@ Správa, synchronizace a zabezpečení těchto dat podléhá výhradně infrastr
 <br><br>
 ### **7. Technická podpora**
 
-V případě technických dotazů či problémů s funkčností aplikace kontaktuje uživatel provozovatele aplikace na níže uvedené e-mailové adrese.
+V případě technických dotazů či problémů s funkčností aplikace kontaktuje uživatel provozovatele aplikace na této e-mailové adrese: vajehigo@gmail.com
 <br><br>
 ### **8. Mimosoudní řešení sporů**
 
@@ -80,4 +80,4 @@ Vývojářem a provozovatelem aplikace Vajehi Go je:
 
 **Tomáš Matula**
 
-Kontakt: **vajehigo@gmail.com**
+Kontakt: vajehigo@gmail.com
