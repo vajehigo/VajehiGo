@@ -126,7 +126,7 @@ Tyto zásady a podmínky mohou být v průběhu času aktualizovány, **zejména
 Aktuální znění bude vždy zveřejněno na této stránce **s uvedením data poslední aktualizace.**
 <br><br>
 ### 11. Provozovatel aplikace
-Vývojářem a provozovatelem aplikace Vajehi Go je:
+Vývojářem a provozovatelem aplikace **Vajehi Go je**:
 <br><br>
 **Tomáš Matula**
 Kontakt: [vajehigo@gmail.com](mailto:vajehigo@gmail.com)
