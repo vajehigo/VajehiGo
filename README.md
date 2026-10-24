@@ -86,15 +86,13 @@ Vzhledem k tomu, že veškeré platby za nákupy v aplikaci jsou zpracovávány 
 Tím nejsou dotčena práva uživatele, která mu poskytují platné právní předpisy.
 <br><br>
 ### 7. Smazání a správa dat
-**Vzhledem k tomu, že Vajehi Go nepoužívá vlastní serverovou infrastrukturu pro ukládání uživatelských dat,** jsou data spravována především prostřednictvím zařízení uživatele a případně jeho osobního iCloudového úložiště.
+**Uživatel může data aplikace Vajehi Go odstranit ze svého zařízení smazáním aplikace.**
 <br><br>
-**Lokální data**
-Data uložená pouze v zařízení lze odstranit odstraněním aplikace ze zařízení. **Konkrétní způsob odstranění může záviset na nastavení zařízení a způsobu, jakým jsou data aplikace v daném systému ukládána.**
+**Data synchronizovaná prostřednictvím iCloudu** je nutné odstranit samostatně v nastavení iCloudu na zařízení uživatele, a to v souladu s možnostmi a postupy poskytovanými společností **Apple.** Konkrétní umístění jednotlivých voleb se může v závislosti na verzi systému měnit. **Uživatel se proto řídí aktuálními možnostmi systému Apple.**
 <br><br>
-**Data v iCloudu**
-Pokud aplikace využívá ukládání dat v iCloudu, **jejich správu a odstranění může uživatel provádět prostřednictvím nastavení svého zařízení a svého účtu Apple.**
+Odstranění dat z iCloudu se může projevit také na ostatních zařízeních **přihlášených ke stejnému účtu Apple,** která tato data synchronizují.
 <br><br>
-Konkrétní umístění jednotlivých voleb **se může v závislosti na verzi systému iOS nebo iPadOS měnit.** Uživatel se proto řídí aktuálními možnostmi systému Apple.
+**Upozornění:** Odstraněním dat z iCloudu může dojít k trvalé ztrátě uložených slibů a souvisejících záznamů.
 <br><br>
 ### 8. Technická podpora
 V případě technických dotazů, problémů s funkčností aplikace nebo dotazů týkajících se používání aplikace **může uživatel kontaktovat provozovatele na e-mailové adrese: [vajehigo@gmail.com](mailto:vajehigo@gmail.com)**
