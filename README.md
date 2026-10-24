@@ -113,7 +113,9 @@ Aktuální znění bude vždy zveřejněno na této stránce **s uvedením data 
 Vývojářem a provozovatelem aplikace **Vajehi Go je**:
 <br><br>
 **Tomáš Matula**
+Žitná 606/29, Praha 1, 110 00
 Kontakt: [vajehigo@gmail.com](mailto:vajehigo@gmail.com)
+Telefon:
 
 
 
