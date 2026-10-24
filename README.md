@@ -72,9 +72,9 @@ Cena zaplacená za aktivaci slibu představuje cenu za zpřístupnění příslu
 **Nejedná se o finanční zálohu, sázku ani kauci.**
 <br><br>
 ### 5. Okamžité zpřístupnění digitální služby a odstoupení od smlouvy
-Před dokončením nákupu má uživatel možnost seznámit se s těmito **Zásadami ochrany osobních údajů a Podmínkami použití aplikace Vajehi Go**
+Před dokončením nákupu má uživatel možnost seznámit se s těmito **Zásadami ochrany osobních údajů a Podmínkami použití aplikace Vajehi Go.**
 <br><br>
-Před zaplacením ceny za aktivaci slibu je uživatel v aplikaci vyzván k potvrzení, že se s těmito zásadami a podmínkami seznámil a souhlasí s nimi. Souhlas potvrzuje stisknutím tlačítka **„Ano, souhlasím“.**
+Před zaplacením ceny za aktivaci slibu je uživatel v aplikaci vyzván k potvrzení, že se s těmito zásadami a podmínkami seznámil a souhlasí s nimi. Souhlas potvrzuje stisknutím dvou tlačítek. Tlačítka **Ano** a následně tlačítka **Souhlasím“.**
 <br><br>
 **Zaplacením za aktivaci slibu dojde k okamžitému zpřístupnění příslušného herního prostředí a zahájení poskytování související digitální služby.**
 <br><br>
