@@ -54,9 +54,9 @@ Obsah uživatele není prostřednictvím aplikace používán k trénování gen
 Aplikace neprovádí automatické sémantické vyhodnocování uživatelských textů, rozpoznávání obličejů ani jinou automatizovanou analýzu obsahu uživatele.
 <br><br>
 ### 3. Ukládání dat a iCloud
-Data vytvořená uživatelem v aplikaci Vajehi Go se ukládají lokálně do zařízení uživatele a synchronizují prostřednictvím služby iCloud do jeho osobního účtu Apple, pokud je iCloud pro aplikaci a zařízení uživatele dostupný.
+**Data vytvořená uživatelem v aplikaci Vajehi Go se ukládají lokálně do zařízení uživatele** a synchronizují prostřednictvím služby iCloud do jeho osobního účtu Apple, pokud je iCloud pro aplikaci a zařízení uživatele dostupný.
 <br><br>
-**Data jsou spojena s účtem Apple, ke kterému je zařízení uživatele přihlášeno.** Synchronizace přes iCloudu umožňuje uživateli přistupovat ke svým datům na podporovaných zařízeních přihlášených ke stejnému účtu Apple, pokud jsou splněny technické a provozní podmínky služby iCloud. Synchronizaci dat s iCloudem probíhá prostřednictvím infrastruktury společnosti **Apple** a řídí se podmínkami a pravidly ochrany osobních údajů společnosti Apple.
+**Data jsou spojena s účtem Apple, ke kterému je zařízení uživatele přihlášeno.** Synchronizace prostřednictvím služby iCloudu umožňuje uživateli přistupovat ke svým datům na podporovaných zařízeních přihlášených ke stejnému účtu Apple, pokud jsou splněny technické a provozní podmínky služby iCloud. Synchronizaci dat s iCloudem probíhá prostřednictvím infrastruktury společnosti **Apple** a řídí se podmínkami a pravidly ochrany osobních údajů společnosti Apple.
 <br><br>
 Provozovatel aplikace **nemá přístup k uživatelským datům uloženým v osobním iCloudovém úložišti uživatele.**
 <br><br>
