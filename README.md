@@ -56,7 +56,7 @@ Aplikace neprovádí automatické sémantické vyhodnocování uživatelských t
 ### 3. Ukládání dat a iCloud
 Data vytvořená uživatelem v aplikaci jsou ukládána:
 <br><br>
-**Lokálně do zařízení uživatele a do jeho osobního iCloudu,** pokud je pro aplikaci a zařízení uživatele iCloud dostupný.
+**Lokálně do zařízení uživatele a také do jeho osobního iCloudu,** pokud je iCloud pro aplikaci a zařízení uživatele dostupný.
 <br><br>
 Vajehi Go **nemá vlastní serverové úložiště uživatelských dat.**
 <br><br>
