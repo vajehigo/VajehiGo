@@ -115,7 +115,9 @@ Vývojářem a provozovatelem aplikace **Vajehi Go je**:
 **Tomáš Matula**
 <br><br>
 Žitná 606/29, Praha 1, 110 00
+<br><br>
 Kontakt: [vajehigo@gmail.com](mailto:vajehigo@gmail.com)
+<br><br>
 Telefon:
 
 
