@@ -67,9 +67,7 @@ Aktivací slibu získá uživatel přístup zejména k hernímu rozhraní slibu,
 <br><br>
 Platba je zpracovávána prostřednictvím systému **Apple App Store.**
 <br><br>
-Cena zaplacená za aktivaci slibu představuje cenu za zpřístupnění příslušné funkce a herního prostředí aplikace.
-<br><br>
-**Nejedná se o finanční zálohu, sázku ani kauci.**
+Cena zaplacená za aktivaci slibu představuje cenu za zpřístupnění příslušné funkce a herního prostředí aplikace. **Nejedná se o finanční zálohu, sázku ani kauci.**
 <br><br>
 ### 5. Okamžité zpřístupnění digitální služby a odstoupení od smlouvy
 Před dokončením nákupu má uživatel možnost seznámit se s těmito **Zásadami ochrany osobních údajů a Podmínkami použití aplikace Vajehi Go.**
