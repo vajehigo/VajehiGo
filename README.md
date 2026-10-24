@@ -54,29 +54,29 @@ Obsah uživatele není prostřednictvím aplikace používán k trénování gen
 Aplikace neprovádí automatické sémantické vyhodnocování uživatelských textů, rozpoznávání obličejů ani jinou automatizovanou analýzu obsahu uživatele.
 <br><br>
 ### 3. Ukládání dat a iCloud
-**Data vytvořená uživatelem v aplikaci Vajehi Go se ukládají lokálně do zařízení uživatele** a synchronizují prostřednictvím služby iCloud do jeho osobního účtu Apple, pokud je iCloud pro aplikaci a zařízení uživatele dostupný.
+**Data vytvořená uživatelem v aplikaci Vajehi Go se ukládají lokálně do zařízení uživatele** a synchronizují prostřednictvím služby iCloud do jeho osobního iCloudu, pokud je iCloud pro aplikaci a zařízení uživatele dostupný.
 <br><br>
-**Data jsou spojena s účtem Apple, ke kterému je zařízení uživatele přihlášeno.** Synchronizace prostřednictvím služby iCloudu umožňuje uživateli přistupovat ke svým datům na podporovaných zařízeních přihlášených ke stejnému účtu Apple, pokud jsou splněny technické a provozní podmínky služby iCloud. Synchronizaci dat s iCloudem probíhá prostřednictvím infrastruktury společnosti **Apple** a řídí se podmínkami a pravidly ochrany osobních údajů společnosti **Apple.**
+**Data jsou spojena s účtem Apple, ke kterému je zařízení uživatele přihlášeno.** Synchronizace prostřednictvím služby iCloudu umožňuje uživateli přistupovat ke svým datům na podporovaných zařízeních přihlášených ke stejnému účtu Apple, pokud jsou splněny technické a provozní podmínky služby iCloud. Synchronizace dat s iCloudem probíhá prostřednictvím infrastruktury společnosti **Apple** a řídí se podmínkami a pravidly ochrany osobních údajů společnosti **Apple.**
 <br><br>
 **Provozovatel aplikace Vajehi Go** nemá přístup k uživatelským datům uloženým lokálně v zařízení ani k datům uloženým na jeho osobním iCloudu.
 <br><br>
 ### 4. Nákupy v aplikaci a aktivace slibu
-Aplikace nabízí jednorázové nákupy v aplikaci **(Consumable In-App Purchases)**, které představují **cenu za aktivaci slibu a zpřístupnění příslušného herního prostředí v aplikaci.**
+**Vajehi Go** nabízí jednorázové nákupy v aplikaci **(Consumable In-App Purchases)**, které představují **cenu za aktivaci slibu a zpřístupnění příslušného digitální služby – herního prostředí aplikace.**
 <br><br>
-Aktivací slibu získá uživatel přístup zejména k hernímu rozhraní slibu, ve kterém může sledovat jeho časový průběh, psát příspěvky, vkládat fotografie nebo videa a následně slib vyhodnotit.
+Aktivací slibu uživatel získává přístup zejména k hernímu rozhraní slibu, ve kterém může sledovat jeho časový průběh, psát příspěvky, vkládat fotografie nebo videa a následně slib vyhodnotit.
 <br><br>
 **Veškeré platby za nákupy v aplikaci jsou zpracovávány prostřednictvím platebního systému App Store společnosti Apple.**
 <br><br>
-Cena zaplacená za aktivaci slibu představuje cenu za zpřístupnění příslušné funkce a herního prostředí aplikace. **Nejedná se o finanční zálohu, sázku ani kauci.**
+Cena zaplacená za aktivaci slibu představuje cenu za zpřístupnění příslušné funkce a herního prostředí aplikace (digitální služby). **Cena zaplacená za aktivaci slibu tedy nepředstavuje finanční zálohu, sázku ani kauci.**
 <br><br>
 ### 5. Okamžité zpřístupnění digitální služby a odstoupení od smlouvy
 Před dokončením nákupu má uživatel možnost seznámit se s těmito **Zásadami ochrany osobních údajů a Podmínkami použití aplikace Vajehi Go.**
 <br><br>
-Před zaplacením ceny za aktivaci slibu je uživatel v aplikaci vyzván k potvrzení, že se s těmito zásadami a podmínkami seznámil a souhlasí s nimi. Souhlas potvrzuje stisknutím dvou tlačítek. Tlačítka **Ano** a tlačítka **Souhlasím.**
+Před zaplacením ceny za aktivaci slibu je uživatel v aplikaci vyzván k potvrzení, že se s těmito Zásadami ochrany osobních údajů a Podmínkami použití aplikace Vajehi Go seznámil a souhlasí s nimi. Souhlas potvrzuje stisknutím dvou tlačítek. Tlačítka **Ano** a tlačítka **Souhlasím.**
 <br><br>
-**Zaplacením za aktivaci slibu dojde k okamžitému zpřístupnění příslušného herního prostředí a zahájení poskytování související digitální služby.**
+**Zaplacením za aktivaci slibu dochází k okamžitému zpřístupnění příslušného herního prostředí a zahájení poskytování digitální služby.**
 <br><br>
-**Uživatel tím, že předem souhlasil se zásadami a podmínkami a následně zaplatil za Aktivaci slibu, výslovně požaduje zahájení poskytování digitální služby** před uplynutím zákonné lhůty pro odstoupení od smlouvy a bere na vědomí, že za podmínek stanovených platnými právními předpisy může zahájením poskytování digitální služby ztratit právo na odstoupení od smlouvy ve lhůtě 14 dnů.
+**Uživatel tím, že souhlasil se Zásadami ochrany osobních údajů a s Podmínkami použití aplikace Vajehi Go a následně pak za Aktivaci slibu zaplatil, výslovně požaduje okamžité zahájení poskytování digitální služby** před uplynutím zákonné lhůty pro odstoupení od smlouvy a bere na vědomí, že za podmínek stanovených platnými právními předpisy může zahájením poskytování digitální služby ztratit právo na odstoupení od smlouvy ve lhůtě 14 dnů.
 <br><br>
 Tím nejsou dotčena ostatní práva uživatele vyplývající z platných právních předpisů, **zejména práva související s vadným nebo neposkytnutým digitálním obsahem či službou.**
 <br><br>
@@ -88,7 +88,7 @@ Tím nejsou dotčena práva uživatele, která mu poskytují platné právní p�
 ### 7. Smazání a správa dat
 **Uživatel může data aplikace Vajehi Go odstranit ze svého zařízení smazáním aplikace ze zařízení.**
 <br><br>
-**Data synchronizovaná prostřednictvím iCloudu** je nutné odstranit samostatně v **nastavení iCloudu** na zařízení uživatele, a to v souladu s možnostmi a postupy poskytovanými společností **Apple.** Konkrétní umístění jednotlivých voleb v Nastavení zařízení se může měnit v závislosti na verzi používaného operačního systému. **Uživatel se proto řídí aktuálními možnostmi systému Apple.**
+**Data synchronizovaná prostřednictvím iCloudu** je nutné odstranit samostatně v **nastavení iCloudu** na zařízení uživatele, a to v souladu s možnostmi a postupy poskytovanými společností **Apple.** Konkrétní umístění jednotlivých voleb **Nastavení zařízení** se může lišit v závislosti na verzi používaného operačního systému. **Uživatel se proto řídí aktuálními možnostmi operačního systému Apple, který na svém zařízení používá.**
 <br><br>
 Odstranění dat z iCloudu se může projevit také na ostatních zařízeních **přihlášených ke stejnému účtu Apple.**
 <br><br>
