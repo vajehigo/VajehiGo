@@ -76,11 +76,11 @@ Před dokončením nákupu má uživatel možnost seznámit se s těmito **Zása
 <br><br>
 Před zaplacením ceny za aktivaci slibu je uživatel v aplikaci vyzván k potvrzení, že se s těmito zásadami a podmínkami seznámil a souhlasí s nimi. Souhlas potvrzuje stisknutím tlačítka **„Ano, souhlasím“.**
 <br><br>
-**Zaplacením ceny za aktivaci slibu dojde k jeho automatické aktivaci a k okamžitému zpřístupnění příslušného herního prostředí a digitální služby,** tedy před uplynutím zákonné lhůty pro odstoupení od smlouvy.
+**Zaplacením za aktivaci slibu dojde k okamžitému zpřístupnění příslušného herního prostředí a zahájení poskytování související digitální služby.**
 <br><br>
-Pokud jsou splněny podmínky stanovené platnými právními předpisy, uživatel tímto souhlasem **výslovně požaduje zahájení poskytování digitální služby** před uplynutím zákonné lhůty pro odstoupení od smlouvy a bere na vědomí, že po zahájení poskytování digitální služby **ztrácí právo na odstoupení od smlouvy ve lhůtě 14 dnů.**
+**Uživatel tím, že předem souhlasil se zásadami a podmínkami a následně zaplatil za Aktivaci slibu, výslovně požaduje zahájení poskytování digitální služby** před uplynutím zákonné lhůty pro odstoupení od smlouvy a bere na vědomí, že za podmínek stanovených platnými právními předpisy může zahájením poskytování digitální služby ztratit právo na odstoupení od smlouvy ve lhůtě 14 dnů.
 <br><br>
-Tím nejsou dotčena ostatní práva uživatele vyplývající z platných právních předpisů, zejména práva související s vadným nebo neposkytnutým digitálním obsahem či službou.
+Tím nejsou dotčena ostatní práva uživatele vyplývající z platných právních předpisů, **zejména práva související s vadným nebo neposkytnutým digitálním obsahem či službou.**
 <br><br>
 ### 6. Refundace plateb
 Nákupy uskutečněné prostřednictvím App Store jsou zpracovávány společností Apple.
