@@ -38,7 +38,7 @@ Pro používání aplikace není vyžadováno vytvoření uživatelského účtu
 Aplikace neobsahuje reklamy, sledovací kódy ani analytické nástroje třetích stran a nepoužívá uživatelský obsah pro reklamní, analytické nebo obdobné účely.
 <br><br>
 ### Obsah vytvářený uživatelem
-Uživatel sám rozhoduje o tom, **jaký obsah si do aplikace zaznamená.** Může jít například o textové poznámky, fotografie nebo videa.
+Uživatel sám rozhoduje o tom, **jaký obsah si do aplikace zaznamená.** Může jít například o texty, fotografie nebo videa.
 <br><br>
 Uživatel odpovídá za obsah, který do aplikace vloží nebo v ní zaznamená, a za to, že jeho vložením nebo používáním neporušuje práva jiných osob ani platné právní předpisy.
 <br><br>
@@ -51,7 +51,7 @@ Texty, fotografie, videa ani jiný obsah vytvořený nebo vložený uživatelem 
 <br><br>
 Obsah uživatele není prostřednictvím aplikace používán k trénování generativních modelů.
 <br><br>
-Aplikace neprovádí automatické sémantické vyhodnocování textů, rozpoznávání obličejů ani jinou automatizovanou analýzu obsahu uživatele.
+Aplikace neprovádí automatické sémantické vyhodnocování uživatelských textů, rozpoznávání obličejů ani jinou automatizovanou analýzu obsahu uživatele.
 <br><br>
 ### 3. Ukládání dat a iCloud
 Data vytvořená uživatelem v aplikaci jsou ukládána:
