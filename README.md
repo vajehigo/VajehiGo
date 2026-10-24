@@ -56,16 +56,13 @@ Aplikace neprovádí automatické sémantické vyhodnocování uživatelských t
 ### 3. Ukládání dat a iCloud
 Data vytvořená uživatelem v aplikaci jsou ukládána:
 <br><br>
-•	**lokálně v zařízení uživatele,** a
-•	**v osobním úložišti Apple iCloud,**
-<br><br>
-pokud je pro aplikaci a zařízení uživatele iCloud aktivní a aplikace tuto možnost využívá.
+•	**lokálně v zařízení uživatele,** a **v osobním iCloudu uživatele** pokud je pro aplikaci a zařízení uživatele iCloud aktivní a dostupný.
 <br><br>
 Vajehi Go **nemá vlastní serverové úložiště uživatelských dat.**
 <br><br>
-Pokud jsou data synchronizována prostřednictvím iCloudu, probíhá jejich ukládání a synchronizace prostřednictvím infrastruktury společnosti **Apple Inc.** a řídí se podmínkami a pravidly ochrany osobních údajů společnosti Apple.
+Ukládání dat do iCloudu, probíhá díky synchronizaci prostřednictvím infrastruktury společnosti **Apple Inc.** a řídí se podmínkami a pravidly ochrany osobních údajů společnosti Apple.
 <br><br>
-Provozovatel aplikace **nemá prostřednictvím vlastní infrastruktury přístup k uživatelským datům uloženým v osobním iCloudovém úložišti uživatele.**
+Provozovatel aplikace **nemá přístup k uživatelským datům uloženým v osobním iCloudovém úložišti uživatele.**
 <br><br>
 ### 4. Nákupy v aplikaci a aktivace slibu
 Aplikace nabízí jednorázové nákupy v aplikaci **(Consumable In-App Purchases)**, které představují **cenu za aktivaci slibu a zpřístupnění příslušného herního prostředí v aplikaci.**
