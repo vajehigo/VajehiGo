@@ -1,5 +1,5 @@
 # Zásady ochrany osobních údajů a Podmínky použití aplikace Vajehi Go
-Poslední aktualizace: 19. září 2026
+Poslední aktualizace: 24. října 2026
 <br><br>
 Tento dokument upravuje pravidla ochrany osobních údajů a podmínky používání mobilní aplikace **Vajehi Go** (dále také „aplikace“ nebo „hra“).
 <br><br>
