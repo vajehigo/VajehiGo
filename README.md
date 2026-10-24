@@ -65,7 +65,7 @@ Aplikace nabízí jednorázové nákupy v aplikaci **(Consumable In-App Purchase
 <br><br>
 Aktivací slibu získá uživatel přístup zejména k hernímu rozhraní slibu, ve kterém může sledovat jeho časový průběh, psát příspěvky, vkládat fotografie nebo videa a následně slib vyhodnotit.
 <br><br>
-Platba je zpracovávána prostřednictvím systému **Apple App Store.**
+**Veškeré platby za nákupy v aplikaci jsou zpracovávány prostřednictvím platebního systému App Store společnosti Apple.**
 <br><br>
 Cena zaplacená za aktivaci slibu představuje cenu za zpřístupnění příslušné funkce a herního prostředí aplikace. **Nejedná se o finanční zálohu, sázku ani kauci.**
 <br><br>
@@ -81,8 +81,7 @@ Před zaplacením ceny za aktivaci slibu je uživatel v aplikaci vyzván k potvr
 Tím nejsou dotčena ostatní práva uživatele vyplývající z platných právních předpisů, **zejména práva související s vadným nebo neposkytnutým digitálním obsahem či službou.**
 <br><br>
 ### 6. Refundace plateb
-Nákupy uskutečněné prostřednictvím App Store jsou zpracovávány společností Apple.
-**Veškeré žádosti o vrácení peněz (refundace) uplatňuje uživatel přímo u společnosti Apple** prostřednictvím portálu [reportproblem.apple.com](https://support.apple.com/cs-cz/118223) dle platných podmínek obchodu App Store.
+Vzhledem k tomu, že veškeré platby za nákupy v aplikaci jsou zpracovávány **prostřednictvím platebního systému App Store společnosti Apple,** uživatel uplatňuje veškeré žádosti o vrácení peněz **(refundace)** přímo u společnosti Apple prostřednictvím portálu [Nahlásit problém](https://support.apple.com/cs-cz/118223), a to v souladu s platnými podmínkami obchodu **App Store.**
 <br><br>
 Aktuální pravidla společnosti Apple upravují mimo jiné způsob podání žádosti o vrácení peněz a podmínky, za kterých může být refundace poskytnuta.
 <br><br>
