@@ -102,7 +102,7 @@ V případě, že mezi provozovatelem a uživatelem (spotřebitelem) vznikne spo
 <br><br>
 **Subjektem mimosoudního řešení spotřebitelských sporů je v tomto případě Česká obchodní inspekce,** pokud pro daný typ sporu není podle právních předpisů příslušný jiný subjekt.
 <br><br>
-Informace o mimosoudním řešení spotřebitelských sporů jsou dostupné na internetových stránkách České obchodní inspekce. [www.coi.cz](https://coi.gov.cz/informace-o-adr/?utm_source=chatgpt.com).
+Informace o mimosoudním řešení spotřebitelských sporů jsou dostupné na internetových stránkách České obchodní inspekce. [www.coi.cz]( https://coi.gov.cz/informace-o-adr/).
 <br><br>
 ### 10. Změny těchto zásad a podmínek
 Tyto zásady a podmínky mohou být v průběhu času aktualizovány, **zejména v souvislosti se změnami aplikace, poskytovaných funkcí, právních předpisů nebo způsobu zpracování dat.**
