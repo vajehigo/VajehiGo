@@ -37,8 +37,6 @@ Pro používání aplikace není vyžadováno vytvoření uživatelského účtu
 <br><br>
 Aplikace neobsahuje reklamy, sledovací kódy ani analytické nástroje třetích stran a nepoužívá uživatelský obsah pro reklamní, analytické nebo obdobné účely.
 <br><br>
-Uživatelský obsah vytvořený v aplikaci není prostřednictvím vlastní infrastruktury provozovatele poskytován jiným osobám.
-<br><br>
 ### Obsah vytvářený uživatelem
 Uživatel sám rozhoduje o tom, **jaký obsah si do aplikace zaznamená.** Může jít například o textové poznámky, fotografie nebo videa.
 <br><br>
