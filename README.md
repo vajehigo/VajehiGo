@@ -86,11 +86,11 @@ Vzhledem k tomu, že veškeré platby za nákupy v aplikaci jsou zpracovávány 
 Tím nejsou dotčena práva uživatele, která mu poskytují platné právní předpisy.
 <br><br>
 ### 7. Smazání a správa dat
-**Uživatel může data aplikace Vajehi Go odstranit ze svého zařízení smazáním aplikace.**
+**Uživatel může data aplikace Vajehi Go odstranit ze svého zařízení smazáním aplikace ze zařízení.**
 <br><br>
-**Data synchronizovaná prostřednictvím iCloudu** je nutné odstranit samostatně v nastavení iCloudu na zařízení uživatele, a to v souladu s možnostmi a postupy poskytovanými společností **Apple.** Konkrétní umístění jednotlivých voleb se může v závislosti na verzi systému měnit. **Uživatel se proto řídí aktuálními možnostmi systému Apple.**
+**Data synchronizovaná prostřednictvím iCloudu** je nutné odstranit samostatně v nastavení iCloudu na zařízení uživatele, a to v souladu s možnostmi a postupy poskytovanými společností **Apple.** Konkrétní umístění jednotlivých voleb v Nastavení zařízení se může měnit v závislosti na verzi používaného operačního systému. **Uživatel se proto řídí aktuálními možnostmi systému Apple.**
 <br><br>
-Odstranění dat z iCloudu se může projevit také na ostatních zařízeních **přihlášených ke stejnému účtu Apple,** která tato data synchronizují.
+Odstranění dat z iCloudu se může projevit také na ostatních zařízeních **přihlášených ke stejnému účtu Apple.**
 <br><br>
 **Upozornění:** Odstraněním dat z iCloudu může dojít k trvalé ztrátě uložených slibů a souvisejících záznamů.
 <br><br>
