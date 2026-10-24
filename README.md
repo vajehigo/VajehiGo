@@ -63,7 +63,7 @@ Aplikace neprovádí automatické sémantické vyhodnocování uživatelských t
 ### 4. Nákupy v aplikaci a aktivace slibu
 Aplikace nabízí jednorázové nákupy v aplikaci **(Consumable In-App Purchases)**, které představují **cenu za aktivaci slibu a zpřístupnění příslušného herního prostředí v aplikaci.**
 <br><br>
-Aktivací slibu může uživatel získat přístup zejména k hernímu rozhraní slibu, ve kterém může sledovat jeho průběh, vkládat si poznámky, fotografie nebo videa a následně slib vyhodnotit.
+Aktivací slibu získá uživatel přístup zejména k hernímu rozhraní slibu, ve kterém může sledovat jeho časový průběh, psát příspěvky, fotografie nebo videa a následně slib vyhodnotit.
 <br><br>
 Platba je zpracovávána prostřednictvím systému **Apple App Store.**
 <br><br>
