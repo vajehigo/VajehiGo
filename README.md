@@ -81,7 +81,7 @@ Před zaplacením ceny za aktivaci slibu je uživatel v aplikaci vyzván k potvr
 Tím nejsou dotčena ostatní práva uživatele vyplývající z platných právních předpisů, **zejména práva související s vadným nebo neposkytnutým digitálním obsahem či službou.**
 <br><br>
 ### 6. Refundace plateb
-Vzhledem k tomu, že veškeré platby za nákupy v aplikaci jsou zpracovávány **prostřednictvím platebního systému App Store společnosti Apple,** uživatel uplatňuje veškeré žádosti o vrácení peněz **(refundace)** přímo u společnosti **Apple** prostřednictvím portálu [Nahlásit problém](https://reportaproblem.apple.com/?s=6,) a to v souladu s platnými **podmínkami obchodu App Store.**
+Vzhledem k tomu, že veškeré platby za nákupy v aplikaci jsou zpracovávány **prostřednictvím platebního systému App Store společnosti Apple,** uživatel uplatňuje veškeré žádosti o vrácení peněz **(refundace)** přímo u společnosti **Apple** prostřednictvím portálu [Nahlásit problém](https://reportaproblem.apple.com/?s=6,) a to v souladu s platnými [podmínkami obchodu App Store.](https://www.apple.com/legal/internet-services/itunes/cz/terms.html)
 <br><br>
 Tím nejsou dotčena práva uživatele, která mu poskytují platné právní předpisy.
 <br><br>
