@@ -31,7 +31,7 @@ Aplikace **neposuzuje, zda je zvolený slib pro uživatele vhodný, správný, d
 <br><br>
 ## **Zásady ochrany osobních údajů a Podmínky použití**
 ### **1. Sběr a zpracování osobních údajů**
-Aplikace nemá vlastní serverovou infrastrukturu, na kterou by odesílala nebo ukládala uživatelská data. Provozovatel aplikace prostřednictvím aplikace **nemá přístup k obsahu, který uživatel v aplikaci vytváří nebo ukládá.**
+Aplikace nemá vlastní serverovou infrastrukturu, na kterou by odesílala nebo ukládala uživatelská data. Provozovatel aplikace **nemá přístup k obsahu, který uživatel v aplikaci vytváří nebo ukládá.**
 <br><br>
 Pro používání aplikace není vyžadováno vytvoření uživatelského účtu u provozovatele.
 <br><br>
