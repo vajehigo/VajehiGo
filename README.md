@@ -118,7 +118,7 @@ Vývojářem a provozovatelem aplikace **Vajehi Go je**:
 <br><br>
 Kontakt: [vajehigo@gmail.com](mailto:vajehigo@gmail.com)
 <br><br>
-Telefon:
+Telefon: +420 608 962 859
 
 
 
