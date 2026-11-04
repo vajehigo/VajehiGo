@@ -94,7 +94,7 @@ In App Store Connect, the Operator may obtain commercial and statistical sales d
 <br><br>
 **2.8 The user’s rights in connection with e-mail communication:** To the extent that the Operator processes personal data obtained through e-mail communication, the user may exercise the right of access to personal data, rectification, erasure or restriction of processing, and may also object to processing and request data portability, where the statutory conditions for doing so are met.
 <br><br>
-The user also has the right to lodge a complaint with the Office for Personal Data Protection of the Czech Republic (Úřad pro ochranu osobních údajů) ([uoou.gov.cz](https://uoou.gov.cz)). The user may send requests to the Operator’s contact e-mail address stated in this document.
+The user also has the right to lodge a complaint with the Office for Personal Data Protection of the Czech Republic (Úřad pro ochranu osobních údajů) ([uoou.gov.cz](https://uoou.gov.cz/en)). The user may send requests to the Operator’s contact e-mail address stated in this document.
 <br><br>
 ## **3. Artificial Intelligence and Machine Learning**
 The App does not use artificial intelligence (AI) systems, machine learning algorithms or automated tools for the analysis of user content. User content is not sent to AI service providers or used to train generative models.
@@ -177,7 +177,7 @@ Uninstalling the App does not, in itself, necessarily remove data that has alrea
 In the event of technical questions or problems with the functionality of the App, the user may contact the Operator at the following e-mail address: [vajehigo@gmail.com](mailto:vajehigo@gmail.com)
 <br><br>
 ## **10. Out-of-Court Resolution of Consumer Disputes (ADR)**
-Should a consumer dispute arise between the Operator and a consumer that cannot be resolved by mutual agreement, the consumer may submit a proposal for out-of-court dispute resolution to the Czech Trade Inspection Authority (Česká obchodní inspekce) ([coi.gov.cz](https://coi.gov.cz/informace-o-adr/)), provided that the Czech Trade Inspection Authority is the competent body for the out-of-court resolution of consumer disputes in the dispute concerned.
+Should a consumer dispute arise between the Operator and a consumer that cannot be resolved by mutual agreement, the consumer may submit a proposal for out-of-court dispute resolution to the Czech Trade Inspection Authority (Česká obchodní inspekce) ([coi.gov.cz](https://coi.gov.cz/en/information-about-adr/)), provided that the Czech Trade Inspection Authority is the competent body for the out-of-court resolution of consumer disputes in the dispute concerned.
 <br><br>
 ## **11. Governing Language and Governing Law**
 **11.1 Original version:** The Privacy Policy and Terms of Use for the Vajehi Go App were originally prepared in the Czech language. Any foreign-language versions (including the English-language version) constitute an informative translation only.
