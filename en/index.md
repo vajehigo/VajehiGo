@@ -4,22 +4,22 @@ title: VajehiGo
 ---
 
 # Privacy Policy and Terms of Use for the Vajehi Go App
-Last updated: November 3, 2026
+Last updated: November 21, 2026
 <br>
 [Česká verze](../)
 <br><br>
 This document sets out the privacy rules, the terms of use and the legal notices applicable to the Vajehi Go mobile application (hereinafter also the “App” or the “Game”).
 <br><br>
-By downloading, installing or using the App, or by making a purchase in the App, the user acknowledges this document.
+By downloading, installing and using the App, the user acknowledges this document.
 <br><br>
-By using the App and making a purchase in it, the user agrees to this Privacy Policy and Terms of Use for the Vajehi Go App.
+By using the App, the user agrees to this Privacy Policy and Terms of Use for the Vajehi Go App.
 <br><br>
 Information on the processing of personal data is provided to the user through this Privacy Policy and Terms of Use for the Vajehi Go App.
 <br><br>
 ## **What Vajehi Go Is**
 Vajehi Go is a game built around a promise that the user makes to themselves – something like a New Year’s resolution, only a little different. The Game has three parts:
 <br><br>
-**1. Formulation and Activation:** In the App, the user formulates their promise in text form and selects its duration and the price for which they wish to activate it. By paying the price, the user activates the promise.
+**1. Formulation and Activation:** In the App, the user formulates their promise in text form, selects its duration and then activates it.
 <br><br>
 **2. Fulfillment in Real Life:** The user fulfills their promise in their real life. During this period, the user may track in the App the time remaining to fulfill or keep the promise, and may record the progress of fulfilling the promise by means of text, photographs or videos.
 <br><br>
@@ -45,14 +45,14 @@ The user takes all actions in real life at their own discretion and is responsib
 ## **1. Relationship to Apple’s Terms (Apple EULA)**
 **1.1** The relationship between the user and the Operator of the App is governed, in general licensing, technical and copyright matters, by Apple’s Standard End User License Agreement ([Apple Standard End User License Agreement / EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)), to the extent that it applies to the App and to the relationship concerned.
 <br><br>
-**1.2** The Privacy Policy and Terms of Use for the Vajehi Go App supplement Apple’s Standard End User License Agreement with specific rules concerning the operation of the Vajehi Go App, the protection of privacy and the use of the digital service.
+**1.2** The Privacy Policy and Terms of Use for the Vajehi Go App supplement Apple’s Standard End User License Agreement with specific rules concerning the operation of the Vajehi Go App.
 <br><br>
 ## **2. Collection and Processing of Personal Data**
 **2.1 No proprietary server for user content:** The App does not send user content to the Operator’s servers, and the Operator does not operate its own server infrastructure intended for storing such content.
 <br><br>
 The Operator has no access to the texts, photographs, videos or any other content that the user creates or stores in the App.
 <br><br>
-The App may use Apple’s system services, in particular iCloud/CloudKit and StoreKit, which communicate with Apple’s servers; however, these do not constitute the Operator’s own server infrastructure.
+The App may use Apple’s system services, in particular iCloud/CloudKit, which communicate with Apple’s servers; however, these do not constitute the Operator’s own server infrastructure.
 <br><br>
 **2.2 No account and no advertising:** Using the App does not require the creation of a user account with the Operator. Using synchronization through iCloud may require an Apple Account and the relevant settings to be enabled.
 <br><br>
@@ -76,7 +76,7 @@ Such data are not sent by the Vajehi Go App on its own to the Operator’s serve
 <br><br>
 **2.6 E-mail communication and technical support:** If the user contacts the Operator at the e-mail address stated in this document, the Operator will receive the user’s e-mail address, the content of the message and any other data that the user provides in the message.
 <br><br>
-The controller of this personal data is the Operator identified in Article 12 of this document.
+The controller of this personal data is the Operator identified in Article 11 of this document.
 <br><br>
 The Operator uses this data only to the extent necessary to handle the inquiry, provide technical support, communicate with the user and, where applicable, protect or enforce legal claims.
 <br><br>
@@ -86,13 +86,7 @@ E-mail communication may also be technically processed by e-mail service provide
 <br><br>
 The Operator retains messages only for the period necessary to handle the communication and subsequently for a period reasonable for the protection or enforcement of potential legal claims, or for the period required by law.
 <br><br>
-**2.7 Data on App Store purchases:** Payments in the App are processed by Apple through the App Store/StoreKit system.
-<br><br>
-The Operator has no access to the user’s payment card data or to the user’s login or other payment credentials.
-<br><br>
-In App Store Connect, the Operator may obtain commercial and statistical sales data, for example the number of purchases and related data on countries or regions, to the extent that Apple makes such data available.
-<br><br>
-**2.8 The user’s rights in connection with e-mail communication:** To the extent that the Operator processes personal data obtained through e-mail communication, the user may exercise the right of access to personal data, rectification, erasure or restriction of processing, and may also object to processing and request data portability, where the statutory conditions for doing so are met.
+**2.7 The user’s rights in connection with e-mail communication:** To the extent that the Operator processes personal data obtained through e-mail communication, the user may exercise the right of access to personal data, rectification, erasure or restriction of processing, and may also object to processing and request data portability, where the statutory conditions for doing so are met.
 <br><br>
 The user also has the right to lodge a complaint with the Office for Personal Data Protection of the Czech Republic (Úřad pro ochranu osobních údajů) ([uoou.gov.cz](https://uoou.gov.cz/en)). The user may send requests to the Operator’s contact e-mail address stated in this document.
 <br><br>
@@ -110,59 +104,17 @@ The App does not use artificial intelligence (AI) systems, machine learning algo
 <br><br>
 **4.5** The App itself does not transfer user content to the Operator’s own servers. Synchronization between the user’s devices is provided by Apple’s iCloud/CloudKit service.
 <br><br>
-## **5. In-App Purchases and Promise Activation**
-**5.1 Nature of the purchase:** Vajehi Go offers one-time in-app purchases (Consumable In-App Purchases), which represent the price for activating a promise and for making the corresponding game environment of the App available.
+## **5. Free Use of the App**
+The Vajehi Go App is free of charge for all users. No fees are charged for using the App or for activating a promise.
 <br><br>
-**5.2 Nature of the amount paid:** The amount paid does not constitute a refundable advance payment, security deposit, wager or monetary stake. The money paid is not returned depending on the outcome of the Game, nor is it paid back in any financial form after the Game ends.
-<br><br>
-By this payment, the user purchases access to the digital service (the game environment of the App) for the given promise, regardless of whether the user fulfills the promise in real life or not.
-<br><br>
-This does not affect any statutory rights of the user to a refund that may apply.
-<br><br>
-**5.3 Time of provision of the digital service:** By paying the price for activating a promise, the complete game environment, including all features and content that form part of the given game, is made available on a one-time basis.
-<br><br>
-This environment includes, in particular, the ability to track the remaining time, to add ongoing updates and posts concerning the fulfillment of the promise, to record one’s observations and progress by means of texts, photographs and videos, and to use other features related to the course and review of the promise (the conclusion of the Game).
-<br><br>
-**5.4 Making the game environment available as a whole:** The game environment is made available to the user as a whole at the moment of activation. The subsequent display of individual messages and other pre-prepared elements during the Game forms part of the operation of the game environment that has already been made available and does not constitute the additional provision of any further digital service.
-<br><br>
-**5.5 The user’s independent conduct:** The user subsequently decides on their own on the manner and extent of using the game environment that has been made available and on their own conduct in real life (fulfilling the promise in their real life).
-<br><br>
-**5.6 Effect of failure to review or fulfill the promise:** Any failure by the user to review the promise, to complete it or to fulfill it in real life has no effect on the fact that the agreed digital service was made available at the moment of activation. Such circumstances do not, in themselves, give rise to any entitlement to a refund of the price paid.
-<br><br>
-**5.7 Technical defects:** Any technical defects, malfunction or non-conformity of the game environment with the agreed characteristics shall be assessed separately in accordance with the relevant provisions of this Privacy Policy and Terms of Use for the Vajehi Go App and applicable law. This does not affect the statutory rights of the user.
-<br><br>
-## **6. Withdrawal from the Contract and Payment Refunds**
-### **Provisions for Consumers in the European Union (EU)**
-Before paying the price for activating a promise, the user is prompted in the App to confirm that they have read and agree to this Privacy Policy and Terms of Use for the Vajehi Go App. The user confirms their consent by pressing two buttons labeled “Yes” and “I agree”.
-<br><br>
-By giving this consent, the user confirms that they have been informed of the immediate availability of the digital service, expressly requests that the provision or making available of the digital service begin immediately after payment, and acknowledges the legal consequences for the right of withdrawal from the contract.
-<br><br>
-To the extent that a statutory exception for digital content applies to the particular performance, the right of withdrawal may lapse once performance has begun, provided that the statutory conditions of the user’s express consent and acknowledgement have been met in advance.
-<br><br>
-Where the performance is governed by the regime applicable to digital services, the right of withdrawal lapses only after the service has been fully provided, provided that the statutory conditions are met.
-<br><br>
-This does not affect the statutory rights of the user in the event of defective or non-conforming performance.
-<br><br>
-### **Provisions for Users in the USA and Other Countries Outside the European Union**
-In-app purchases constitute one-time purchases of a digital service. To the extent permitted by applicable law, these purchases are final and are not subject to a refund solely on the grounds that the user has changed their mind about the purchase or has decided not to fulfill the activated promise.
-<br><br>
-This provision does not limit any consumer rights granted by applicable law, in particular in the event of non-delivery of the purchased digital service, a defect in it, unauthorized charging or any other ground giving rise to a statutory entitlement to a refund.
-<br><br>
-### **Refund Management (App Store)**
-All payments are processed through Apple’s App Store payment system. The user submits any refund requests directly to Apple through the [Report a Problem](https://reportaproblem.apple.com/) portal (reportaproblem.apple.com).
-<br><br>
-Apple decides on the handling of the request in accordance with its own rules and applicable law.
-<br><br>
-This does not affect any statutory rights the user may have against the person who is, under applicable law, the user’s contractual counterparty.
-<br><br>
-## **7. Limitation of the Operator’s Liability**
+## **6. Limitation of the Operator’s Liability**
 The Operator is not responsible for the user’s personal decisions, for their conduct in real life, or for whether the user fulfills, fails to fulfill or fails to keep their own promise. The Operator also does not guarantee the achievement of any particular personal, health, financial or other result.
 <br><br>
 To the maximum extent permitted by applicable law, the Operator is not liable for indirect or consequential damages, loss of profit, or loss arising from circumstances for which it is not liable under applicable law.
 <br><br>
 Nothing in this Privacy Policy and Terms of Use for the Vajehi Go App excludes or limits the Operator’s liability to the extent that applicable law does not permit such exclusion or limitation, in particular the statutory rights of the consumer in respect of defective performance, liability for personal injury (harm to health), or other mandatory consumer rights.
 <br><br>
-## **8. Deletion and Management of Data**
+## **7. Deletion and Management of Data**
 The user may remove the data of the Vajehi Go App from their device by deleting the App from the device.
 <br><br>
 Data synchronized via iCloud must be removed separately in the iCloud settings on the user’s device, in accordance with the options and procedures provided by Apple. The specific location of individual device settings options may vary depending on the version of the operating system used. The user should therefore follow the current options of the Apple operating system that they use on their device.
@@ -173,20 +125,20 @@ The deletion of data from iCloud may also take effect on other devices signed in
 <br><br>
 Uninstalling the App does not, in itself, necessarily remove data that has already been synchronized to iCloud. Such data must be removed separately through Apple’s settings and tools.
 <br><br>
-## **9. Technical Support**
+## **8. Technical Support**
 In the event of technical questions or problems with the functionality of the App, the user may contact the Operator at the following e-mail address: [vajehigo@gmail.com](mailto:vajehigo@gmail.com)
 <br><br>
-## **10. Out-of-Court Resolution of Consumer Disputes (ADR)**
+## **9. Out-of-Court Resolution of Consumer Disputes (ADR)**
 Should a consumer dispute arise between the Operator and a consumer that cannot be resolved by mutual agreement, the consumer may submit a proposal for out-of-court dispute resolution to the Czech Trade Inspection Authority (Česká obchodní inspekce) ([coi.gov.cz](https://coi.gov.cz/en/information-about-adr/)), provided that the Czech Trade Inspection Authority is the competent body for the out-of-court resolution of consumer disputes in the dispute concerned.
 <br><br>
-## **11. Governing Language and Governing Law**
-**11.1 Original version:** The Privacy Policy and Terms of Use for the Vajehi Go App were originally prepared in the Czech language. Any foreign-language versions (including the English-language version) constitute an informative translation only.
+## **10. Governing Language and Governing Law**
+**10.1 Original version:** The Privacy Policy and Terms of Use for the Vajehi Go App were originally prepared in the Czech language. Any foreign-language versions (including the English-language version) constitute an informative translation only.
 <br><br>
-**11.2 Precedence of the Czech version:** In the event of any conflict, ambiguity or discrepancy between the Czech original and its foreign-language translation, the Czech version alone shall be decisive and legally binding.
+**10.2 Precedence of the Czech version:** In the event of any conflict, ambiguity or discrepancy between the Czech original and its foreign-language translation, the Czech version alone shall be decisive and legally binding.
 <br><br>
-**11.3 Governing law:** The Privacy Policy and Terms of Use for the Vajehi Go App are governed by the laws of the Czech Republic. However, neither the choice of Czech law nor the provision on the governing language limits the mandatory consumer rights to which the consumer is entitled under the legal provisions that must apply to their contractual relationship.
+**10.3 Governing law:** The Privacy Policy and Terms of Use for the Vajehi Go App are governed by the laws of the Czech Republic. However, neither the choice of Czech law nor the provision on the governing language limits the mandatory consumer rights to which the consumer is entitled under the legal provisions that must apply to their contractual relationship.
 <br><br>
-## **12. Operator of the App**
+## **11. Operator of the App**
 The developer and operator of the Vajehi Go App (the “Operator”) is:
 <br><br>
 **Tomáš Matula**
